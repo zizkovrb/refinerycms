@@ -239,7 +239,7 @@ module Refinery
     end
 
     def url
-      Pages::Url.build(self)
+      Url.build(self)
     end
 
     def link_url_localised?
