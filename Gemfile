@@ -2,6 +2,8 @@ source 'https://rubygems.org'
 
 gemspec
 
+gem 'rails', '~> 3.2.14.rc2'
+
 # Add i18n support.
 gem 'refinerycms-i18n', '~> 2.0.0'
 
